@@ -1,0 +1,5 @@
+com\pruebaconocimientos\api\repository\IUserRepository.class
+com\pruebaconocimientos\api\controller\UserController.class
+com\pruebaconocimientos\api\exception\ResourseNotFoundException.class
+com\pruebaconocimientos\api\model\User.class
+com\pruebaconocimientos\api\PruebaConocimientosApplication.class
